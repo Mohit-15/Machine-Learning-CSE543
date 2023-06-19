@@ -5,10 +5,10 @@ During this course, we have given 4 assignments (Individual) and 1 Course projec
 In this repository, I'm adding all the assignments and project which I've done on my own and with my project group members.
 
 ## <a href="https://github.com/Mohit-15/Machine-Learning-CSE543/tree/master/Assignments" style="text-decoration: 'none';">Assignments</a>
-- **[Assignment 1](https://github.com/Mohit-15/Machine-Learning-CSE543/tree/master/Assignments/Assignment_1):** In this assignment, we have to work on questions related to data visualization, Linear and Logistic Regression, Classification and Mathematics.
-- **[Assignment 2](https://github.com/Mohit-15/Machine-Learning-CSE543/tree/master/Assignments/Assignment_2):** In this assignment, we worked and understand about GLM, Data Augmentation, Unsupervised Learning, Classification Metrics, and Cross-Validation Techniques.
-- **[Assignment 3](https://github.com/Mohit-15/Machine-Learning-CSE543/tree/master/Assignments/Assignment_3):** In this, we have tasks related to Support Vector Machine (SVM), Support Vector Regressor (SVR), and Mathematical Questions related to SVM, and Kernals.
-- **[Assignment 4](https://github.com/Mohit-15/Machine-Learning-CSE543/tree/master/Assignments/Assignment_4):** In this last assignment, we have to solve problems related to Decision Trees, Random Forests, Naive Bayes Classifier, and KMeans etc.
+- **[Assignment 1](https://github.com/Mohit-15/Machine-Learning-CSE543/tree/master/Assignments/Assignment_1) :** In this assignment, we have to work on questions related to data visualization, Linear and Logistic Regression, Classification and Mathematics.
+- **[Assignment 2](https://github.com/Mohit-15/Machine-Learning-CSE543/tree/master/Assignments/Assignment_2) :** In this assignment, we worked and understand about GLM, Data Augmentation, Unsupervised Learning, Classification Metrics, and Cross-Validation Techniques.
+- **[Assignment 3](https://github.com/Mohit-15/Machine-Learning-CSE543/tree/master/Assignments/Assignment_3) :** In this, we have tasks related to Support Vector Machine (SVM), Support Vector Regressor (SVR), and Mathematical Questions related to SVM, and Kernals.
+- **[Assignment 4](https://github.com/Mohit-15/Machine-Learning-CSE543/tree/master/Assignments/Assignment_4) :** In this last assignment, we have to solve problems related to Decision Trees, Random Forests, Naive Bayes Classifier, and KMeans etc.
 
 ## [Course Project](https://github.com/Mohit-15/Machine-Learning-CSE543/tree/master/Course_Project)
 
