@@ -12,5 +12,5 @@ In this repository, I'm adding all the assignments and project which I've done o
 
 ## [Course Project](https://github.com/Mohit-15/Machine-Learning-CSE543/tree/master/Course_Project)
 
-### **LILAC: ANALYZING LIFESTYLE AS RISK FACTOR FOR LUNG CANCER**\
+### **LILAC: ANALYZING LIFESTYLE AS RISK FACTOR FOR LUNG CANCER**
 The project attempts to propose a detailed comparison of popular Machine Learning techniques with an aim to predict the risk of Lung Cancer effectively by analyzing and refining the set of available attributes through several feature selection processes to select the factors which strongly affect the chances of Lung Cancer. An effective summation and overall comparison of the executed techniques to select the best technique is a major highlight of the presented work. The best feature selection technique is attributed to Sequential Feature Selection as it led to a significant improvement in the prediction of the risk through relatively easier models with high accuracy. The proposed work enhances the accuracy of models which are relatively easy to build and explain and hence improves the time complexity when the model is built with a huge amount of data available.
